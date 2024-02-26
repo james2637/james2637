@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @james2637
-- 👀 I’m interested in programming, hacking and investing 
-- 🌱 I’m currently learning javascript
+- 👋 Hi, I’m Rabi banik
+- 👀 I’m a tech enthusiast with the passion for programming/hacking 
+- 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
  
